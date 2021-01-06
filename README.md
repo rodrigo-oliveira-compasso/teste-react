@@ -1,6 +1,6 @@
 # Avaliação React Compasso
 
-A aplicação será um portal utilizando React para a exibição de notícias e o Node.JS para o consumo das notícias de dois temas que estão dentro da api do THE NEW YORK TIMES.
+A aplicação será um portal utilizando React e Node.JS para a exibição de notícias para o consumo das notícias de dois temas que estão dentro da api do THE NEW YORK TIMES.
 
 O projeto deverá ser publicado em um repositório público no github.
 
